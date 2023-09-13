@@ -29,27 +29,27 @@
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
+      <td>Write a Java program that takes five numbers as input to calculate and print the average of the numbers</td>
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>Write a Java program to swap two variables</td>
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>Write a Java program to convert a decimal number to binary numbers</td>
     </tr>
     <tr>
       <td>8</td>
-      <td></td>
+      <td>Write a Java program to convert a binary number to decimal number</td>
     </tr>
     <tr>
       <td>9</td>
-      <td></td>
+      <td>Write a Java program to check whether Java is installed on your computer or not</td>
     </tr>
     <tr>
       <td>10</td>
-      <td></td>
+      <td>Write a Java program and compute the sum of the digits of an integer</td>
     </tr>
     <tr>
       <td>11</td>
