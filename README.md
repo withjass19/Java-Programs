@@ -1,12 +1,13 @@
 # Java-Programs
-<br><br>
 
 <table>
-  <caption>The Beatles</caption>
-  <tr>
-    <td>John Lennon</td>
-    <td>Rhythm Guitar</td>
-  </tr>
+  <thead>
+    <caption>Java Programs Liast</caption>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
   <tr>
     <td>Paul McCartney</td>
     <td>Bass</td>
