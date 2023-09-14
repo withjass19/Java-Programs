@@ -53,63 +53,123 @@
     </tr>
     <tr>
       <td>11</td>
-      <td></td>
+      <td>Write a Java program to compare two numbers</td>
     </tr>
     <tr>
       <td>12</td>
-      <td></td>
+      <td>Write a Java program to count the letters, spaces, numbers and other characters of an input string</td>
     </tr>
     <tr>
       <td>13</td>
-      <td></td>
+      <td>Write a Java program to print the ascii value of a given character</td>
     </tr>
     <tr>
       <td>14</td>
-      <td></td>
+      <td>Write a Java program that accepts an integer (n) and computes the value of n+nn+nnn</td>
     </tr>
     <tr>
       <td>15</td>
-      <td></td>
+      <td>Write a Java program to display the system time</td>
     </tr>
     <tr>
       <td>16</td>
-      <td></td>
+      <td>Write a Java program to print the odd numbers from 1 to 20</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>17</td>
+      <td>Write a Java program to print the even numbers from 1 to 20</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>18</td>
+      <td>Write a Java program to convert a string to an integer</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>19</td>
+      <td>Write a Java program to convert seconds to hour, minute and seconds</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>20</td>
+      <td>Write a Java program to compute the sum of the first 100 prime numbers</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>21</td>
+      <td>Write a Java program to swap the first and last elements of an array and create a new array</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>22</td>
+      <td>Write a Java program to count the number of even and odd elements in a given array</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>23</td>
+      <td>Write a Java program to compute the square root of an given integer</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>24</td>
+      <td>Write a Java program to check if a positive number is a palindrome or not</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>25</td>
+      <td>Write a Java program to add two numbers without using any arithmetic operators</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>Write a Java program to add all the digits of a given positive integer</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>Java program to find area of circle</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>Java Program to find area of rectangle</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>Java Program to find area of triangle</td>
+    </tr>
+     <tr>
+      <td>30</td>
+      <td>Java Program to find area of equilateral triangle</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>Java Program to find area of rhombus</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>Java Program to find area of parallelogram</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>Java Program to find area of Prism</td>
+    </tr>
+     <tr>
+      <td>34</td>
+      <td>Java Program to find volume of sphere</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>Java Program to find volume of cylinder</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>Java Program to find volume of cuboid</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>Java Program to find volume of cone</td>
+    </tr>
+     <tr>
+      <td>38</td>
+      <td>Java program to find surface area of cuboid</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>Java program to find surface area of cylinder</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>Java program to find surface area of cube</td>
     </tr>
     <tr>
       <td></td>
