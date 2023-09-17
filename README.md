@@ -172,6 +172,50 @@
       <td>Java program to find surface area of cube</td>
     </tr>
     <tr>
+      <td>41</td>
+      <td>Java program to calculate average marks</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>Java program to check vowel or consonant</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>Java program to sum of N numbers</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>Java program to find factorial of any number</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>Java Program to calculate electricity bill</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>Java Program To Calculate CGPA Percentage</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>Java Program to calculate compound interest</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>Java Program To Calculate Batting Average</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>Java Pogram to Calculate Commission Percentage</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>Java Pogram To Find Distance Between Two Points</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td></td>
       <td></td>
     </tr>
