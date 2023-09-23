@@ -3,7 +3,7 @@
 <table>
   
   <thead>
-    <caption>Java Programs Liast</caption>
+    <caption>Java Programs List</caption>
     <tr>
       <td>S.No</td>
       <td>Program</td>
