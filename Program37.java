@@ -9,8 +9,8 @@ class Cone{
         double h = 5;
         System.out.println("Radius of Cone: "+r);
         System.out.println("Height of Cone: "+h);
-        AreaOfSphere obj = new AreaOfSphere();
-        double ans = obj.area(r);
+        ValumeOfCone obj = new ValumeOfCone();
+        double ans = obj.area(r,h);
         System.out.println("Valume of cone is "+ ans);
     }
 }
