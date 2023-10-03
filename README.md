@@ -212,6 +212,388 @@
       <td>Java Pogram To Find Distance Between Two Points</td>
     </tr>
     <tr>
+      <td>51</td>
+      <td>Java Program To Calculate Power Of Number</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>Write a Java program to take three numbers from the user and print the greatest number</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>Write a Java program to find the number of days in a month</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>Write a Java program to test a number is positive or negative</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>Write a Java Program to accept number of week’s day (1-7) and print name of the day</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>Write a Java program that takes a year from user and print whether that year is a leap year or not</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>Write a Java program to input 5 numbers from keyboard and find their sum and average</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>Write a program in Java to display the first 5 natural numbers</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>Write a java program to check vowel or consonant</td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>Write a java program to check vowel or consonant</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>Write a Java program to display the n terms of odd natural number and their sum</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>Write a Java program to display the multiplication table of a given integer
+</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>Write a Java program that reads an integer and check whether it is negative, zero, or positive
+</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>Write a Java program that reads an integer and check whether it is negative, zero, or positive
+</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>Write a Java program that accepts three numbers and check All numbers are equal or not
+</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>Write a java program that accepts three numbers from the user and check if numbers are in “increasing” or “decreasing” order.</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>Write a Java program that determines a student’s grade</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>Write a Java program to create a simple calculator
+</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>Write a Java program to concatenate two string</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>Write a Java program to convert all characters in a string to lowercase</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>Write a Java program to convert all characters in a string to uppercase
+</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>Write a Java program to trim a string(remove whitespaces)</td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>Write a Java program to get a substring of a given string between two specified positions</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>Write a Java program to replace all the ‘d’ characters with ‘f’ characters
+</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>Write a Java program to replace all the ‘d’ characters with ‘f’ characters
+</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>Write a java program to print current date and time in the specified format</td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>Write a java program to print current date and time in the specified format</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>Write a java program to remove a particular character from a string</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>Write a java program to remove a particular character from a string</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>Write a java program to remove html tags from a string</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>Write a java program to remove html tags from a string</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>Write a java program to remove html tags from a string</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>Write a Java program to find the index of an array element
+</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>Write a Java program to find the index of an array element
+</td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>Write a Java program to test if an array contains a specific value</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>Write a Java program to find the maximum and minimum value of an array</td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>Write a Java program to insert an element (specific position) into an array</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>Write a Java program to reverse an array of integer values</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>Write a Java program to find the common elements between two arrays</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>Write a Java program to find the duplicate values of an array of integer values</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>Write a Java program to convert an array to ArrayList</td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>Write a Java program to add two matrices of the same size
+</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>Write a Java program to find second largest number from the array</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>Write a Java program to find second lowest number from the array</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>Write a Java program to find the number of even and odd integers in a given array of integers
+</td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>Write a Java program to get the difference between the largest and smallest values in an array of integers</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>Write a Java program to segregate all 0s on left side and all 1s on right side of a given array of 0s and 1s
+</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>Write a Java program to cyclically rotate a given array clockwise by one</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>java program to print all unique element in an array</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>Write a Java Program to Sort the Array in an Ascending Order
+</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>Write a Java Program to Sort the Array in an Descending Order</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>Write a Java Program to Sort Names in an Alphabetical Order
+</td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>Write a Java Program to Display Transpose Matrix
+</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>Write a Java Program to Search Key Elements in an Array</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>Write a Java Program to Accept the Marks of a Student and find Total Marks and Percentage</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>Write a java program to print numbers from 1 to 10 using loop
+</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>Write a java program to calculate the sum of first 10 natural number using loop</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>Write a Java program to print multiplication table of given number</td>
+    </tr>
+    <tr>
+      <td>109</td>
+      <td>Write a Java program to find the factorial value of any number entered through the keyboard
+</td>
+    </tr>
+    <tr>
+      <td>110</td>
+      <td>Write a Java program that prompts the user to input an integer and then outputs the number with the digits reversed order</td>
+    </tr>
+    <tr>
+      <td>111</td>
+      <td>Write a Java program that reads a set of integers, and then prints the sum of the even and odd integers using loop
+</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>Write a Java program that reads a set of integers, and then prints the sum of the even and odd integers using loop
+</td>
+    </tr>
+    <tr>
+      <td>113</td>
+      <td>Write a Java program to calculate HCF of Two given numbers using loop</td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td>Write a Java program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros</td>
+    </tr>
+    <tr>
+      <td>115</td>
+      <td>Write a Java program to enter the numbers till the user wants and at the end the program should display the largest and smallest numbers entered</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>Write a Java program to print out all Armstrong numbers between 1 to 600 using loop</td>
+    </tr>
+    <tr>
+      <td>117</td>
+      <td>Write a java program to count total number of notes in entered amount using loop</td>
+    </tr>
+    <tr>
+      <td>118</td>
+      <td>Write a Java program to print Fibonacci series of n terms where n is input by user using loop</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>Write a java program to calculate the sum of following series where n is input by user</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>Write a Java method to compute the average of three numbers</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>Write a Java method to find the smallest number among three numbers
+</td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td>Write a Java method to count all words in a string</td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>Write a Java method to count all vowels in a string</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>Write a Java method to compute the sum of the digits in an integer
+</td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>Write a Java method to check whether an year entered by the user is a leap year or not</td>
+    </tr>
+    <tr>
+      <td>126</td>
+      <td>Write a Java method to calculate the area of a triangle</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>Write a Java method to find the area of a pentagon
+</td>
+    </tr>
+    <tr>
+      <td>128</td>
+      <td>Write a Java method to find number is even number or not</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>Write a Java method to check numbers is palindrome number or not</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>Write a Java method to displays prime numbers between 1 to 20
+</td>
+    </tr>
+    <tr>
+      <td>131</td>
+      <td>Write a Java method to find GCD and LCM of Two Numbers</td>
+    </tr>
+    <tr>
+      <td>132</td>
+      <td>Write a Java method to find factorial using recursion in java</td>
+    </tr>
+    <tr>
+      <td>133</td>
+      <td>Write a Java program to reverse an integer number</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>Write a Java program to round a float number to specified decimals
+</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>Write a Java program to round a float number to specified decimals
+</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>Write a Java program to round up the result of integer division</td>
+    </tr>
+    <tr>
+      <td>137</td>
+      <td>Write a Java program to convert Roman number to an integer number</td>
+    </tr>
+    <tr>
+      <td>138</td>
+      <td>Write a Java program to convert a float value to absolute value</td>
+    </tr>
+    <tr>
+      <td>139</td>
+      <td>Write a Java program to accept a float value of number and return a rounded float value</td>
+    </tr>
+    <tr>
       <td></td>
       <td></td>
     </tr>
