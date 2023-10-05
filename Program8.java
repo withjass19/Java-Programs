@@ -2,7 +2,7 @@ class BinaryToDecimal
 {
     public static void main(String argsp[]) throws NumberFormatException
     {
-        int i=0,ans=0;
+        // int ans =0;
         java.util.Scanner sc = new java.util.Scanner(System.in);
         System.out.print("Enter your binary number : ");
         String binary=sc.next();

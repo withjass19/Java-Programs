@@ -1,6 +1,6 @@
 class CheckAlphabets{
    public static void main(String[ ] arg){
-	int i=0;
+	// int i = 0;
 	java.util.Scanner sc=new java.util.Scanner(System.in);
 	System.out.println("Enter a character : ");
 	char ch=sc.next( ).charAt(0);
