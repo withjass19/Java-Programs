@@ -1,4 +1,12 @@
-# Java-Programs
+# Java Programs
+
+This repository contains a collection of Java coding practice problems covering basic to advanced concepts.
+
+## Introduction
+
+This repository serves as a resource for individuals looking to improve their Java programming skills. It includes a variety of Java programs and coding exercises that cover a wide range of concepts, from basic syntax to more advanced topics. Whether you are a beginner looking to learn Java or an experienced programmer seeking to sharpen your skills, you'll find something here to challenge and enhance your Java knowledge.
+
+# Java-Programs-List
 
 <table>
   
