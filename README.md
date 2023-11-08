@@ -11,7 +11,7 @@ This repository serves as a resource for individuals looking to improve their Ja
 <table>
   
   <thead>
-    <caption>Java Programs List</caption>
+    <caption>Java Basic Programs List</caption>
     <tr>
       <td>S.No</td>
       <td>Program</td>
