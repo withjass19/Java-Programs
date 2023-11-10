@@ -12,7 +12,6 @@ This repository serves as a resource for individuals looking to improve their Ja
 <table>
   
   <thead>
-    <caption>Java Basic Programs List</caption>
     <tr>
       <td>S.No</td>
       <td>Program</td>
@@ -602,6 +601,642 @@ This repository serves as a resource for individuals looking to improve their Ja
       <td>139</td>
       <td>Write a Java program to accept a float value of number and return a rounded float value</td>
     </tr>
+  </tbody>
+</table>
+
+
+### Data Conversion
+
+<table>
+
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>140</td>
+      <td>How to convert String to int</td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>How to convert int to String</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>How to convert String to long</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>How to convert long to String</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>How to convert Decimal to Hex</td>
+    </tr>
+    <tr>
+      <td>145</td>
+      <td>How to convert String to float</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>How to convert float to String</td>
+    </tr>
+    <tr>
+      <td>147</td>
+      <td>How to convert String to double</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>How to convert double to String</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>How to convert String to Date</td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>How to convert Date to String</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>How to convert String to char</td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>How to convert char to String</td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>How to convert String to Object</td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>How to convert Object to String</td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td>How to convert int to long</td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>How to convert long to int</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>How to convert int to double</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>How to convert double to int</td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>How to convert Octal to Decimal</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>How to convert char to int</td>
+    </tr>
+    <tr>
+      <td>161</td>
+      <td>How to convert int to char</td>
+    </tr>
+    <tr>
+      <td>162</td>
+      <td>How to convert String to boolean</td>
+    </tr>
+    <tr>
+      <td>163</td>
+      <td>How to convert boolean to String</td>
+    </tr>
+    <tr>
+      <td>164</td>
+      <td>How to convert Date to Timestamp</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>How to convert Timestamp to Date</td>
+    </tr>
+    <tr>
+      <td>166</td>
+      <td>How to convert Binary to Decimal</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>How to convert Decimal to Octal</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>How to convert Decimal to Binary</td>
+    </tr>
+    <tr>
+      <td>169</td>
+      <td>How to convert Hex to Decimal</td>
+    </tr>
+  </tbody>
+
+</table>
+
+
+### Functions
+
+<table>
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>170</td>
+      <td>Write a Java method to find the smallest number among three numbers.</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>Write a Java method to compute the average of three numbers.</td>
+    </tr>
+    <tr>
+      <td>172</td>
+      <td>Write a Java method to display the middle character of a string. Note: a) If the length of the string is odd there will be two middle characters. b) If the length of the string is even there will be one middle character.</td>
+    </tr>
+    <tr>
+      <td>173</td>
+      <td>Write a Java method to count all the words in a string.</td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>Write a Java method to compute the future investment value at a given interest rate for a specified number of years.</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>Write a Java method to print characters between two characters (i.e. A to P).</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>Write a Java method to check whether a string is a valid password.</td>
+    </tr>
+    <tr>
+      <td>177</td>
+      <td>Write a Java method to display the current date and time.</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>Write a Java method to find all twin prime numbers less than 100.</td>
+    </tr>
+    <tr>
+      <td>179</td>
+      <td>Write a Java method to count the number of digits in an integer with the value 2. The integer may be assumed to be non-negative.</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>Write a Java method that accepts three integers and checks whether they are consecutive or not. Returns true or false.</td>
+    </tr>
+    <tr>
+      <td>181</td>
+      <td>Write a Java method that accepts three integers and returns true if one is the middle point between the other two integers, otherwise false.</td>
+    </tr>
+    <tr>
+      <td>182</td>
+      <td>Write a Java method that checks whether all the characters in a given string are vowels (a, e,i,o,u) or not. Return true if each character in the string is a vowel, otherwise return false.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### Single Dimension Arrays
+
+<table>
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>183</td>
+      <td> Program to copy all elements of one array into another array</td>
+    </tr>
+    <tr>
+      <td>184</td>
+      <td>Program to find the frequency of each element in the array</td>
+    </tr>
+    <tr>
+      <td>185</td>
+      <td>Program to left rotate the elements of an array</td>
+    </tr>
+    <tr>
+      <td>186</td>
+      <td>Program to print the duplicate elements of an array</td>
+    </tr>
+    <tr>
+      <td>187</td>
+      <td>Program to print the elements of an array</td>
+    </tr>
+    <tr>
+      <td>188</td>
+      <td>Program to print the elements of an array in reverse order</td>
+    </tr>
+    <tr>
+      <td>189</td>
+      <td>Program to print the elements of an array present on even position</td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>Program to print the elements of an array present on odd position</td>
+    </tr>
+    <tr>
+      <td>191</td>
+      <td>Program to print the largest element in an array</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>Program to print the smallest element in an array</td>
+    </tr>
+    <tr>
+      <td>193</td>
+      <td>Program to print the number of elements present in an array</td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>Program to print the sum of all the items of the array</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>Program to right rotate the elements of an array</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>Program to sort the elements of an array in ascending order</td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>Program to sort the elements of an array in descending order</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td> Program to Find 3rd Largest Number in an array</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>Program to Find 2nd Largest Number in an array</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>Program to Find Largest Number in an array</td>
+    </tr>
+    <tr>
+      <td>201</td>
+      <td>to Program Find 2nd Smallest Number in an array</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>Program to Find Smallest Number in an array</td>
+    </tr>
+    <tr>
+      <td>203</td>
+      <td>Program to Remove Duplicate Element in an array</td>
+    </tr>
+    <tr>
+      <td>204</td>
+      <td>Program to Print Odd and Even Numbers from an array</td>
+    </tr>
+    <tr>
+      <td>205</td>
+      <td>How to Sort an Array in Java</td>
+    </tr>
+  </tbody>
+</table>
+
+### 2D Array
+
+<table>
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>206</td>
+      <td>Enter the Matrix of rows and columns entered by the user and print in matrix format</td>
+    </tr>
+    <tr>
+      <td>207</td>
+      <td>Program to Add Two Matrices</td>
+    </tr>
+    <tr>
+      <td>208</td>
+      <td>Program to Multiply Two Matrices</td>
+    </tr>
+    <tr>
+      <td>209</td>
+      <td>Program to subtract the two matrices</td>
+    </tr>
+    <tr>
+      <td>210</td>
+      <td> Program to determine whether two matrices are equal</td>
+    </tr>
+    <tr>
+      <td>211</td>
+      <td>Program to display the lower triangular matrix</td>
+    </tr>
+    <tr>
+      <td>212</td>
+      <td>Program to display the upper triangular matrix</td>
+    </tr>
+    <tr>
+      <td>213</td>
+      <td>Program to find the frequency of odd & even numbers in the given matrix</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>Program to find the sum of each row and each column of a matrix</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>Program to find the transpose of a given matrix</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>Program to determine whether a given matrix is an identity matrix</td>
+    </tr>
+    <tr>
+      <td>217</td>
+      <td>Program to Transpose matrix</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>Program to determine whether a given matrix is a sparse matrix</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### String
+<table>
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>219</td>
+      <td>Program to Check if a String contains only digits?</td>
+    </tr>
+    <tr>
+      <td>220</td>
+      <td>Program to perform Deep Copy for String?</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>Program to prove String is immutable programmatically?</td>
+    </tr>
+    <tr>
+      <td>222</td>
+      <td>Program to remove all occurrences of a given character from input String?</td>
+    </tr>
+    <tr>
+      <td>223</td>
+      <td>Program to append the string using StringBuffer class</td>
+    </tr>
+    <tr>
+      <td>224</td>
+      <td>Program to insert the string using StringBuffer class</td>
+    </tr>
+    <tr>
+      <td>225</td>
+      <td>Program to Add Characters to a String</td>
+    </tr>
+    <tr>
+      <td>226</td>
+      <td>Program to Add Characters to a String</td>
+    </tr>
+    <tr>
+      <td>227</td>
+      <td>Program to Check Anagram</td>
+    </tr>
+    <tr>
+      <td>228</td>
+      <td>Program to check whether a string is a Palindrome</td>
+    </tr>
+    <tr>
+      <td>229</td>
+      <td>Program to Convert Enum to String</td>
+    </tr>
+    <tr>
+      <td>230</td>
+      <td>Program to Convert String to String Array</td>
+    </tr>
+    <tr>
+      <td>231</td>
+      <td>Program to count number of words in a String?</td>
+    </tr>
+    <tr>
+      <td>232</td>
+      <td>Program to count the total number of characters in a string</td>
+    </tr>
+    <tr>
+      <td>233</td>
+      <td>Program to count the total number of punctuation characters exists in a String</td>
+    </tr>
+    <tr>
+      <td>234</td>
+      <td>Program to count the total number of vowels and consonants in a string</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>Program to determine whether a given string is palindrome</td>
+    </tr>
+    <tr>
+      <td>236</td>
+      <td>Program to determine whether one string is a rotation of another</td>
+    </tr>
+    <tr>
+      <td>237</td>
+      <td>Program to divide a string in 'N' equal parts.</td>
+    </tr>
+    <tr>
+      <td>238</td>
+      <td>Program to find all subsets of a string</td>
+    </tr>
+    <tr>
+      <td>239</td>
+      <td>Program to find all the permutations of a string</td>
+    </tr>
+    <tr>
+      <td>240</td>
+      <td>Program to find maximum and minimum occurring character in a string</td>
+    </tr>
+    <tr>
+      <td>241</td>
+      <td>Program to find Reverse of the string</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>Program to find the duplicate characters in a string</td>
+    </tr>
+    <tr>
+      <td>243</td>
+      <td>Program to find the duplicate words in a string</td>
+    </tr>
+    <tr>
+      <td>244</td>
+      <td>Program to find the frequency of characters</td>
+    </tr>
+    <tr>
+      <td>245</td>
+      <td>Program to find the largest and smallest word in a string</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>Program to find the longest repeating sequence in a string</td>
+    </tr>
+    <tr>
+      <td>247</td>
+      <td>Program to find the most repeated word in a text file</td>
+    </tr>
+    <tr>
+      <td>248</td>
+      <td>Program to find the number of the words in the given text file</td>
+    </tr>
+    <tr>
+      <td>249</td>
+      <td>Program to Get a Character From the Given String</td>
+    </tr>
+    <tr>
+      <td>250</td>
+      <td>Program to Insert a string into another string</td>
+    </tr>
+    <tr>
+      <td>251</td>
+      <td>Program to Iterate Over Characters in String</td>
+    </tr>
+    <tr>
+      <td>252</td>
+      <td>Program to Print a New Line in String</td>
+    </tr>
+    <tr>
+      <td>253</td>
+      <td>Program to Print even length words</td>
+    </tr>
+    <tr>
+      <td>254</td>
+      <td>Program to print smallest and biggest possible palindrome word in a given string</td>
+    </tr>
+    <tr>
+      <td>255</td>
+      <td>Program to remove all the white spaces from a string</td>
+    </tr>
+    <tr>
+      <td>256</td>
+      <td>Program to replace lower-case characters with upper-case and vice-versa</td>
+    </tr>
+    <tr>
+      <td>257</td>
+      <td>Program to replace the spaces of a string with a specific character</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>Program to separate the Individual Characters from a String</td>
+    </tr>
+    <tr>
+      <td>259</td>
+      <td>Program to Splitting into a number of sub-strings</td>
+    </tr>
+    <tr>
+      <td>260</td>
+      <td>Program to swap two string variables without using third or temp variable.</td>
+    </tr>
+    <tr>
+      <td>261</td>
+      <td>Program to Swapping Pair of Characters</td>
+    </tr>
+    <tr>
+      <td>262</td>
+      <td>Read two String user input and check if first contains second?</td>
+    </tr>
+    <tr>
+      <td>263</td>
+      <td>Reserve String without reverse() function</td>
+    </tr>
+    <tr>
+      <td>264</td>
+      <td>Reverse String Word by Word</td>
+    </tr>
+    <tr>
+      <td>265</td>
+      <td>Write a program to check if two Strings are created with same characters?</td>
+    </tr>
+    <tr>
+      <td>266</td>
+      <td>Write a program to find out first non repeated character from input String?</td>
+    </tr>
+    <tr>
+      <td>267</td>
+      <td>Create an object StringBuffer class to reverse the string.</td>
+    </tr>
+    <tr>
+      <td>268</td>
+      <td>Create an object StringBuffer class to show functionality of insert, append, delete and replace functions.</td>
+    </tr>
+  </tbody>
+</table>
+
+### OOPs
+
+<table>
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
     <tr>
       <td></td>
       <td></td>
@@ -611,4 +1246,180 @@ This repository serves as a resource for individuals looking to improve their Ja
       <td></td>
     </tr>
   </tbody>
-</table
+</table>
+
+
+### Inheritance
+
+<table>
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+### Interfaces
+<table>
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+### Input/ Output
+<table>
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+### Packages
+<table>
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+### Exception Handling
+<table>
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+### Delegation Event Model
+<table>
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+### Applets
+<table>
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+### Multithreading
+<table>
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+### AWT
+<table>
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+### JDBC 
+<table>
+  <thead>
+    <tr>
+      <td>S.No</td>
+      <td>Program</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
